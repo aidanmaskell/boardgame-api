@@ -33,4 +33,4 @@ Services/dbService.js
 Test using Postman and/or build a front end for it!
 
 ### Authors
-- Aidan Maskell - [@aidanmaskell](github.com/aidanmaskell)
+- Aidan Maskell - [@aidanmaskell](https://github.com/aidanmaskell)
